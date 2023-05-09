@@ -14,7 +14,9 @@
 </div>
 
 <div>
-<img src="https://szilisimi.hu/mockup.png">
+<p align="center">
+    <img src="https://szilisimi.hu/mockup.png">
+</p>
 <a href="https://www.szilisimi.hu"><h3 style="color: #212121;" align="center">szilisimi.hu<h3></a>
 </div>
 </div>
