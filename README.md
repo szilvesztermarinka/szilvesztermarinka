@@ -1,9 +1,54 @@
-<h1 style="margin-bottom: 50px; color: #212121;" align="center">Hi there 👋</h1>
+<h1 align="left">Hey There, I am Szilveszter👋</h1>
 
-<div style="display: flex; justify-content: space-between; padding: 0 50px; margin-bottom: 50px" align="center">
-<img style="background-color: transparent;" height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fphp-logo.png&f=1&nofb=1&ipt=f69e2fd1804f62a4fa069272fc6ca40b4277f687da1cfd97d7f6344c2e30612d&ipo=images" alt="php">
-<img style="background-color: transparent;" height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FNode_logo_NodeJS.png&f=1&nofb=1&ipt=4e4cb750157a13807d90e9aabe2cdd58d596eba975fabb819f935dd4b8a6abd3&ipo=images" alt="node">
-<img style="background-color: transparent;" height="50" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1&ipt=0e98900d1aef909f0dbf7d71cd918468936b0a9d9ec8991a755d7b8713171b9d&ipo=images" alt="react">
-<img style="background-color: transparent;" height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1&ipt=91c76964861ed323fea11f1d50f32450f2c5fd5dbd65b572051ef1a3c9c7c0ef&ipo=images.png" alt="python">
-<img style="background-color: transparent;" height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.coursehunter.net%2Fcategory%2Fc-sharp-c.png&f=1&nofb=1&ipt=73bf32e6e57276ef6354edfa8f2d9a82214ddf5a21eaadcf0fa4e42e73beeb1b&ipo=images.png" alt="c#">
+###
+
+<p align="left">I am a frontend application developer from Hungary</p>
+
+###
+
+<h2 align="left">Use To Code</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/codevolume/codevolume/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codevolume&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codevolume&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
