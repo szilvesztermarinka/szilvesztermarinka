@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/codevolume/codevolume/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/codevolume/szilvesztermarinka/output/snake.svg" alt="Snake animation" />
 
 ###
 
